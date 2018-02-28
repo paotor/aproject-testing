@@ -35,7 +35,7 @@ double sample_mean(const std::vector<double>& sample);
 double find_max(const std::vector<double>& vec);
 ```
 
-You are asked to
+You are asked to complete the following subtasks using [CMake](https://cmake.org/) as build and test tool software:
 1. **implement and create a C++ library** of the above-mentioned functions;
 1. **implement a small program** that uses the created library;
 1. **implement a simple test** for the library using CMake's CTest;
@@ -49,7 +49,7 @@ In order to complete the assignment, follow this steps/rules:
 1. Provide a report in [markdown](https://guides.github.com/features/mastering-markdown) to support and discuss the activities you carried out to achieve the goal.
 
 The assignment is intended to evaluate different, jet very useful, skills we believe a DevOps should have 😄.  
-Good luck and try your best to complete it 💪!
+Good luck and try your best to complete all the subtasks 💪!
 
 🤔 Should you need any clarification, 👋 [file an issue](../../issues) and we will respond as soon as possible.
 
