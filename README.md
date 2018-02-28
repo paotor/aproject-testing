@@ -45,7 +45,7 @@ In order to complete the assignment, follow this steps/rules:
 
 1. [Clone](https://help.github.com/articles/cloning-a-repository) the GitHub repository that you have been assigned.
 1. Design and implement your solution feeling free to modify the directory tree as you prefer.
-1. In order to test [Travis](https://travis-ci.org/) and [AppVeyor](https://ci.appveyor.com/) CI files, you are required to subscribe to these services (subscription is free) using your GitHub account. Note that Travis and AppVeyor work only on public repositories, so be prepared to change the required project settings accordingly.
+1. In order to test [Travis](https://travis-ci.org/) and [AppVeyor](https://ci.appveyor.com/) CI files, you are required to subscribe to these services (subscription is free) using your GitHub account. Note that Travis and AppVeyor work only on **public repositories**, so be prepared to [duplicate the repository](https://help.github.com/articles/duplicating-a-repository/) and to use it to test the CI files.
 1. Provide a report in [markdown](https://guides.github.com/features/mastering-markdown) to support and discuss the activities you carried out to achieve the goal.
 
 The assignment is intended to evaluate different, jet very useful, skills we believe a DevOps should have 😄.  
