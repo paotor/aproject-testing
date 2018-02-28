@@ -1,5 +1,4 @@
-# Assignment - DevOps
-
+# Audition Project for DevOps
 
 ## ✅ Prerequisites
 | Knowledge | Level |
