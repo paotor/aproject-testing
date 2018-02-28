@@ -38,7 +38,7 @@ double find_max(const std::vector<double>& vec);
 You are asked to complete the following subtasks using [CMake](https://cmake.org/) as build and test tool software:
 1. **implement and create a C++ library** of the above-mentioned functions;
 1. **implement a small program** that uses the created library;
-1. **implement a simple test** for the library using CMake's CTest;
+1. **implement a simple test** for the library using CTest;
 1. **write two minimal CI files**, one for [Travis](https://travis-ci.org/) and one for [AppVeyor](https://ci.appveyor.com/) to compile and test the application on different platform.
 
 In order to complete the assignment, follow this steps/rules:
