@@ -1,0 +1,2 @@
+add_gmock_test(twoutilsTest TwoUtilsTest.cpp)
+target_link_libraries(twoutilsTest libTwoUtils)
