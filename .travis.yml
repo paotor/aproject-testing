@@ -15,7 +15,6 @@ compiler:
 #    - clang
 
 script:
-  - pwd
 #  - mkdir build
   - cd build
 #  - cmake ..

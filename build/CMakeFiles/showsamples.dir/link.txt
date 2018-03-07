@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/showsamples.dir/LibTwoUtils/main/mainapp.cpp.o  -o showsamples LibTwoUtils/src/liblibTwoUtils.a 
