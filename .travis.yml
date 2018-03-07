@@ -15,6 +15,7 @@ compiler:
 #    - clang
 
 script:
+  - pwd
   - cd build
   - make
 
