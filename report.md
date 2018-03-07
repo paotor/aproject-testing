@@ -48,7 +48,7 @@ If you already have downloaded googletest on you file system, set the googletest
 ```script
 set(GMOCK_DIR "./googletest/googlemock/"
     CACHE PATH "The path to the GoogleMock test framework.")
-
+```
 3. build. 
 Create a build directory, "_run cmake .._"  and then "_make_", this build the targets and run the unit test.
 
