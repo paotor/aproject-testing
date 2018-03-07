@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibTwoUtils.a  CMakeFiles/libTwoUtils.dir/TwoUtils.cpp.o
-/usr/bin/ranlib liblibTwoUtils.a

@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/twoutilsTest.dir/TwoUtilsTest.cpp.o  -o twoutilsTest ../../../gmock/libgmock_main.a ../../src/liblibTwoUtils.a ../../../gmock/libgmock.a ../../../gmock/gtest/libgtest.a -pthread 
