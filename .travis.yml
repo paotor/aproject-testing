@@ -16,15 +16,9 @@ compiler:
 #    - clang
 
 script:
-#  - mkdir build
+  - git clone https://github.com/google/googletest.git
+  - mkdir build
   - cd build
-#  - cmake ..
+  - cmake ..
   - make 
 
-#deploy:
-#  skip_cleanup: true
-#
-#language: cpp
-
-#script:
-#    - build/make
