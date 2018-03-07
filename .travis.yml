@@ -19,7 +19,7 @@ script:
   - pwd
   - git clone https://github.com/google/googletest.git
   - pwd
-  - cd ../aproject-testing
+#  - cd ../aproject-testing
   - pwd 
   - mkdir build
   - cd build
