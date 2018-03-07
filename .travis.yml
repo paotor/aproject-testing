@@ -1,4 +1,4 @@
-skip_cleanup: true
+skip_cleanup: false
 sudo: false
 language: cpp
 compiler:
