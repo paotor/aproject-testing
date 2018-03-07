@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../LibTwoUtils/include/TwoUtils.h
+vector
+-
+
+/home/epaotor/Downloads/aproject/aproject-testing/LibTwoUtils/main/mainapp.cpp
+iostream
+-
+vector
+-
+TwoUtils.h
+/home/epaotor/Downloads/aproject/aproject-testing/LibTwoUtils/main/TwoUtils.h
+

@@ -1,3 +1,4 @@
+skip_cleanup: true
 sudo: false
 language: cpp
 compiler:
@@ -18,7 +19,7 @@ script:
 #  - mkdir build
   - cd build
 #  - cmake ..
-  - make && make test
+  - make 
 
 #deploy:
 #  skip_cleanup: true
