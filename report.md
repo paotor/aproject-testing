@@ -24,7 +24,7 @@ Organized the directories as follow:
 └── cmake
     └── Modules
         └── gmock.cmake
-```        
+```
         
 **LibTwoUtils** is the library's root directory. It contains: 
 * **include** _the include files_
@@ -50,8 +50,9 @@ set(GMOCK_DIR "./googletest/googlemock/"
     CACHE PATH "The path to the GoogleMock test framework.")
 ```
 3. build. 
-Create a build directory, "_run cmake .._"  and then "_make_", this build the targets and run the unit test.
+Create a build directory, run "_cmake .._"  and then "_make_", this build the targets and run the unit test.
 
 # CI configuration 
-Travis and AppVeyor file have been configured for the project. Travis "_.travis.yml_" configuration file has been successfully tested using a pubblic mirror project, but "_appveyor.yml_" has not due to an issue on appveyor.com website.  
+Travis and AppVeyor file have been configured for the project. Travis "_.travis.yml_" configuration file has been successfully tested using a pubblic mirror project, so a build is treggered for each push on the git repo, but "_appveyor.yml_" has not, due to an issue on appveyor.com website. So the appveyor.yml is to be considered as draft because I couldn't test it with my public project.
+ 
 
